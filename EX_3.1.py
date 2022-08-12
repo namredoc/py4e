@@ -8,3 +8,4 @@ if hours > (40):
     overtime_h = hours - 40
     overtime_r = (rate * 1.5) * overtime_h
     print(overtime_r + standart_pay)
+    
