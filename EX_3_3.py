@@ -14,4 +14,3 @@ elif number >= 0.6:
     print("D")
 elif number < 0.6:
     print("F")
-    
